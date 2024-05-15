@@ -1,0 +1,125 @@
+{
+  "": {
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/master.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/Sources/App/Controllers/MusicRoomController.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/MusicRoomController.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/MusicRoomController.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/MusicRoomController~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/MusicRoomController.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/Sources/App/Controllers/PlaylistController.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/PlaylistController.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/PlaylistController.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/PlaylistController~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/PlaylistController.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/Sources/App/Controllers/UserController.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/UserController.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/UserController.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/UserController~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/UserController.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/Sources/App/Middlewares/UserTokenAuthenticator.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/UserTokenAuthenticator.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/UserTokenAuthenticator.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/UserTokenAuthenticator~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/UserTokenAuthenticator.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/Sources/App/Migrations/CreateMusicRoom.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/CreateMusicRoom.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/CreateMusicRoom.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/CreateMusicRoom~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/CreateMusicRoom.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/Sources/App/Migrations/CreateMusicRoomUser.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/CreateMusicRoomUser.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/CreateMusicRoomUser.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/CreateMusicRoomUser~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/CreateMusicRoomUser.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/Sources/App/Migrations/CreatePlaylist.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/CreatePlaylist.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/CreatePlaylist.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/CreatePlaylist~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/CreatePlaylist.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/Sources/App/Migrations/CreateTrack.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/CreateTrack.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/CreateTrack.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/CreateTrack~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/CreateTrack.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/Sources/App/Migrations/CreateUser.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/CreateUser.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/CreateUser.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/CreateUser~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/CreateUser.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/Sources/App/Models/MusicRoom.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/MusicRoom.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/MusicRoom.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/MusicRoom~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/MusicRoom.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/Sources/App/Models/MusicRoomUser.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/MusicRoomUser.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/MusicRoomUser.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/MusicRoomUser~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/MusicRoomUser.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/Sources/App/Models/Playlist.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/Playlist.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/Playlist.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/Playlist~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/Playlist.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/Sources/App/Models/Status.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/Status.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/Status.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/Status~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/Status.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/Sources/App/Models/Track.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/Track.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/Track.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/Track~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/Track.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/Sources/App/Models/TrackPlaylist.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/TrackPlaylist.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/TrackPlaylist.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/TrackPlaylist~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/TrackPlaylist.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/Sources/App/Models/User.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/User.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/User.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/User~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/User.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/Sources/App/Models/UserToken.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/UserToken.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/UserToken.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/UserToken~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/UserToken.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/Sources/App/configure.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/configure.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/configure.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/configure~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/configure.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/Sources/App/entrypoint.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/entrypoint.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/entrypoint.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/entrypoint~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/entrypoint.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/Sources/App/routes.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/routes.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/routes.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/routes~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/routes.swiftdeps"
+  }
+}

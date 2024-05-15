@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystemFoundationCompat.build/master.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/swift-nio/Sources/NIOFileSystemFoundationCompat/Date+FileInfo.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystemFoundationCompat.build/Date+FileInfo.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystemFoundationCompat.build/Date+FileInfo.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystemFoundationCompat.build/Date+FileInfo~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystemFoundationCompat.build/Date+FileInfo.swiftdeps"
+  }
+}

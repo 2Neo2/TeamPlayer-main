@@ -1,0 +1,8 @@
+/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/swift-service-lifecycle/Sources/ServiceLifecycle/AsyncCancelOnGracefulShutdownSequence.swift
+/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/swift-service-lifecycle/Sources/ServiceLifecycle/AsyncGracefulShutdownSequence.swift
+/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/swift-service-lifecycle/Sources/ServiceLifecycle/CancellationWaiter.swift
+/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/swift-service-lifecycle/Sources/ServiceLifecycle/GracefulShutdown.swift
+/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/swift-service-lifecycle/Sources/ServiceLifecycle/Service.swift
+/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/swift-service-lifecycle/Sources/ServiceLifecycle/ServiceGroup.swift
+/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/swift-service-lifecycle/Sources/ServiceLifecycle/ServiceGroupConfiguration.swift
+/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/swift-service-lifecycle/Sources/ServiceLifecycle/ServiceRunnerError.swift

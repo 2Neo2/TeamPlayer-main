@@ -1,0 +1,4 @@
+module Numerics {
+    header "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/Numerics.build/Numerics-Swift.h"
+    requires objc
+}

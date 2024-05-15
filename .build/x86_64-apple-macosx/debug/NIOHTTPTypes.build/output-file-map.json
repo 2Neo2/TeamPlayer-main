@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOHTTPTypes.build/master.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/swift-nio-extras/Sources/NIOHTTPTypes/NIOHTTPTypes.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOHTTPTypes.build/NIOHTTPTypes.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOHTTPTypes.build/NIOHTTPTypes.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOHTTPTypes.build/NIOHTTPTypes~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOHTTPTypes.build/NIOHTTPTypes.swiftdeps"
+  }
+}

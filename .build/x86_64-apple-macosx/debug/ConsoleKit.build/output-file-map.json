@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/ConsoleKit.build/master.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/console-kit/Sources/ConsoleKit/Exports.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/ConsoleKit.build/Exports.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/ConsoleKit.build/Exports.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/ConsoleKit.build/Exports~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/ConsoleKit.build/Exports.swiftdeps"
+  }
+}

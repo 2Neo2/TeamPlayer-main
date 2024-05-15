@@ -1,0 +1,4 @@
+module _CollectionsUtilities {
+    header "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/_CollectionsUtilities.build/_CollectionsUtilities-Swift.h"
+    requires objc
+}

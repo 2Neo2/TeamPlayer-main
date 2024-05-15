@@ -1,0 +1,209 @@
+{
+  "": {
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/master.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/swift-nio/Sources/NIOFileSystem/BufferedReader.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/BufferedReader.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/BufferedReader.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/BufferedReader~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/BufferedReader.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/swift-nio/Sources/NIOFileSystem/BufferedWriter.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/BufferedWriter.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/BufferedWriter.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/BufferedWriter~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/BufferedWriter.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/swift-nio/Sources/NIOFileSystem/ByteBuffer+FileSystem.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/ByteBuffer+FileSystem.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/ByteBuffer+FileSystem.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/ByteBuffer+FileSystem~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/ByteBuffer+FileSystem.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/swift-nio/Sources/NIOFileSystem/ByteCount.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/ByteCount.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/ByteCount.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/ByteCount~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/ByteCount.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/swift-nio/Sources/NIOFileSystem/Convenience.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/Convenience.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/Convenience.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/Convenience~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/Convenience.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/swift-nio/Sources/NIOFileSystem/DirectoryEntries.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/DirectoryEntries.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/DirectoryEntries.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/DirectoryEntries~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/DirectoryEntries.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/swift-nio/Sources/NIOFileSystem/DirectoryEntry.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/DirectoryEntry.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/DirectoryEntry.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/DirectoryEntry~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/DirectoryEntry.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/swift-nio/Sources/NIOFileSystem/Exports.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/Exports.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/Exports.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/Exports~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/Exports.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/swift-nio/Sources/NIOFileSystem/FileChunks.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/FileChunks.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/FileChunks.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/FileChunks~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/FileChunks.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/swift-nio/Sources/NIOFileSystem/FileHandle.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/FileHandle.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/FileHandle.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/FileHandle~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/FileHandle.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/swift-nio/Sources/NIOFileSystem/FileHandleProtocol.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/FileHandleProtocol.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/FileHandleProtocol.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/FileHandleProtocol~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/FileHandleProtocol.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/swift-nio/Sources/NIOFileSystem/FileInfo.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/FileInfo.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/FileInfo.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/FileInfo~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/FileInfo.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/swift-nio/Sources/NIOFileSystem/FileSystem.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/FileSystem.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/FileSystem.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/FileSystem~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/FileSystem.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/swift-nio/Sources/NIOFileSystem/FileSystemError+Syscall.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/FileSystemError+Syscall.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/FileSystemError+Syscall.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/FileSystemError+Syscall~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/FileSystemError+Syscall.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/swift-nio/Sources/NIOFileSystem/FileSystemError.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/FileSystemError.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/FileSystemError.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/FileSystemError~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/FileSystemError.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/swift-nio/Sources/NIOFileSystem/FileSystemProtocol.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/FileSystemProtocol.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/FileSystemProtocol.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/FileSystemProtocol~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/FileSystemProtocol.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/swift-nio/Sources/NIOFileSystem/FileType.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/FileType.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/FileType.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/FileType~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/FileType.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/swift-nio/Sources/NIOFileSystem/Internal/BufferedOrAnyStream.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/BufferedOrAnyStream.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/BufferedOrAnyStream.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/BufferedOrAnyStream~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/BufferedOrAnyStream.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/swift-nio/Sources/NIOFileSystem/Internal/BufferedStream.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/BufferedStream.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/BufferedStream.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/BufferedStream~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/BufferedStream.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/swift-nio/Sources/NIOFileSystem/Internal/Cancellation.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/Cancellation.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/Cancellation.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/Cancellation~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/Cancellation.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/swift-nio/Sources/NIOFileSystem/Internal/Concurrency Primitives/IOExecutor.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/IOExecutor.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/IOExecutor.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/IOExecutor~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/IOExecutor.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/swift-nio/Sources/NIOFileSystem/Internal/Concurrency Primitives/Thread.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/Thread.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/Thread.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/Thread~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/Thread.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/swift-nio/Sources/NIOFileSystem/Internal/Concurrency Primitives/ThreadPosix.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/ThreadPosix.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/ThreadPosix.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/ThreadPosix~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/ThreadPosix.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/swift-nio/Sources/NIOFileSystem/Internal/Concurrency Primitives/UnsafeTransfer.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/UnsafeTransfer.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/UnsafeTransfer.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/UnsafeTransfer~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/UnsafeTransfer.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/swift-nio/Sources/NIOFileSystem/Internal/String+UnsafeUnititializedCapacity.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/String+UnsafeUnititializedCapacity.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/String+UnsafeUnititializedCapacity.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/String+UnsafeUnititializedCapacity~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/String+UnsafeUnititializedCapacity.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/swift-nio/Sources/NIOFileSystem/Internal/System Calls/CInterop.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/CInterop.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/CInterop.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/CInterop~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/CInterop.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/swift-nio/Sources/NIOFileSystem/Internal/System Calls/Errno.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/Errno.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/Errno.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/Errno~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/Errno.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/swift-nio/Sources/NIOFileSystem/Internal/System Calls/FileDescriptor+Syscalls.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/FileDescriptor+Syscalls.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/FileDescriptor+Syscalls.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/FileDescriptor+Syscalls~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/FileDescriptor+Syscalls.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/swift-nio/Sources/NIOFileSystem/Internal/System Calls/Mocking.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/Mocking.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/Mocking.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/Mocking~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/Mocking.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/swift-nio/Sources/NIOFileSystem/Internal/System Calls/Syscall.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/Syscall.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/Syscall.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/Syscall~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/Syscall.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/swift-nio/Sources/NIOFileSystem/Internal/System Calls/Syscalls.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/Syscalls.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/Syscalls.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/Syscalls~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/Syscalls.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/swift-nio/Sources/NIOFileSystem/Internal/SystemFileHandle.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/SystemFileHandle.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/SystemFileHandle.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/SystemFileHandle~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/SystemFileHandle.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/swift-nio/Sources/NIOFileSystem/Internal/Utilities.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/Utilities.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/Utilities.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/Utilities~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/Utilities.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/swift-nio/Sources/NIOFileSystem/OpenOptions.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/OpenOptions.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/OpenOptions.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/OpenOptions~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/NIOFileSystem.build/OpenOptions.swiftdeps"
+  }
+}

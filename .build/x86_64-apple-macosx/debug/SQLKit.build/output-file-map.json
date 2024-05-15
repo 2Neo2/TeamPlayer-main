@@ -1,0 +1,557 @@
+{
+  "": {
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/master.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/sql-kit/Sources/SQLKit/Builders/SQLAlterEnumBuilder.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLAlterEnumBuilder.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLAlterEnumBuilder.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLAlterEnumBuilder~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLAlterEnumBuilder.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/sql-kit/Sources/SQLKit/Builders/SQLAlterTableBuilder.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLAlterTableBuilder.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLAlterTableBuilder.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLAlterTableBuilder~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLAlterTableBuilder.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/sql-kit/Sources/SQLKit/Builders/SQLColumnUpdateBuilder.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLColumnUpdateBuilder.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLColumnUpdateBuilder.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLColumnUpdateBuilder~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLColumnUpdateBuilder.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/sql-kit/Sources/SQLKit/Builders/SQLConflictUpdateBuilder.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLConflictUpdateBuilder.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLConflictUpdateBuilder.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLConflictUpdateBuilder~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLConflictUpdateBuilder.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/sql-kit/Sources/SQLKit/Builders/SQLCreateEnumBuilder.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLCreateEnumBuilder.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLCreateEnumBuilder.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLCreateEnumBuilder~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLCreateEnumBuilder.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/sql-kit/Sources/SQLKit/Builders/SQLCreateIndexBuilder.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLCreateIndexBuilder.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLCreateIndexBuilder.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLCreateIndexBuilder~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLCreateIndexBuilder.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/sql-kit/Sources/SQLKit/Builders/SQLCreateTableAsSubqueryBuilder.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLCreateTableAsSubqueryBuilder.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLCreateTableAsSubqueryBuilder.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLCreateTableAsSubqueryBuilder~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLCreateTableAsSubqueryBuilder.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/sql-kit/Sources/SQLKit/Builders/SQLCreateTableBuilder.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLCreateTableBuilder.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLCreateTableBuilder.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLCreateTableBuilder~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLCreateTableBuilder.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/sql-kit/Sources/SQLKit/Builders/SQLCreateTriggerBuilder.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLCreateTriggerBuilder.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLCreateTriggerBuilder.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLCreateTriggerBuilder~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLCreateTriggerBuilder.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/sql-kit/Sources/SQLKit/Builders/SQLDeleteBuilder.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLDeleteBuilder.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLDeleteBuilder.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLDeleteBuilder~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLDeleteBuilder.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/sql-kit/Sources/SQLKit/Builders/SQLDropEnumBuilder.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLDropEnumBuilder.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLDropEnumBuilder.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLDropEnumBuilder~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLDropEnumBuilder.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/sql-kit/Sources/SQLKit/Builders/SQLDropIndexBuilder.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLDropIndexBuilder.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLDropIndexBuilder.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLDropIndexBuilder~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLDropIndexBuilder.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/sql-kit/Sources/SQLKit/Builders/SQLDropTableBuilder.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLDropTableBuilder.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLDropTableBuilder.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLDropTableBuilder~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLDropTableBuilder.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/sql-kit/Sources/SQLKit/Builders/SQLDropTriggerBuilder.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLDropTriggerBuilder.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLDropTriggerBuilder.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLDropTriggerBuilder~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLDropTriggerBuilder.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/sql-kit/Sources/SQLKit/Builders/SQLInsertBuilder.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLInsertBuilder.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLInsertBuilder.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLInsertBuilder~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLInsertBuilder.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/sql-kit/Sources/SQLKit/Builders/SQLJoinBuilder.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLJoinBuilder.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLJoinBuilder.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLJoinBuilder~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLJoinBuilder.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/sql-kit/Sources/SQLKit/Builders/SQLPartialResultBuilder.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLPartialResultBuilder.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLPartialResultBuilder.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLPartialResultBuilder~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLPartialResultBuilder.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/sql-kit/Sources/SQLKit/Builders/SQLPredicateBuilder.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLPredicateBuilder.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLPredicateBuilder.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLPredicateBuilder~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLPredicateBuilder.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/sql-kit/Sources/SQLKit/Builders/SQLPredicateGroupBuilder.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLPredicateGroupBuilder.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLPredicateGroupBuilder.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLPredicateGroupBuilder~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLPredicateGroupBuilder.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/sql-kit/Sources/SQLKit/Builders/SQLQueryBuilder.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLQueryBuilder.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLQueryBuilder.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLQueryBuilder~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLQueryBuilder.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/sql-kit/Sources/SQLKit/Builders/SQLQueryFetcher.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLQueryFetcher.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLQueryFetcher.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLQueryFetcher~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLQueryFetcher.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/sql-kit/Sources/SQLKit/Builders/SQLRawBuilder.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLRawBuilder.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLRawBuilder.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLRawBuilder~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLRawBuilder.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/sql-kit/Sources/SQLKit/Builders/SQLReturningBuilder.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLReturningBuilder.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLReturningBuilder.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLReturningBuilder~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLReturningBuilder.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/sql-kit/Sources/SQLKit/Builders/SQLSecondaryPredicateBuilder.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLSecondaryPredicateBuilder.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLSecondaryPredicateBuilder.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLSecondaryPredicateBuilder~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLSecondaryPredicateBuilder.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/sql-kit/Sources/SQLKit/Builders/SQLSecondaryPredicateGroupBuilder.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLSecondaryPredicateGroupBuilder.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLSecondaryPredicateGroupBuilder.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLSecondaryPredicateGroupBuilder~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLSecondaryPredicateGroupBuilder.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/sql-kit/Sources/SQLKit/Builders/SQLSelectBuilder.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLSelectBuilder.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLSelectBuilder.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLSelectBuilder~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLSelectBuilder.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/sql-kit/Sources/SQLKit/Builders/SQLSubqeryClauseBuilder.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLSubqeryClauseBuilder.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLSubqeryClauseBuilder.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLSubqeryClauseBuilder~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLSubqeryClauseBuilder.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/sql-kit/Sources/SQLKit/Builders/SQLUnionBuilder.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLUnionBuilder.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLUnionBuilder.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLUnionBuilder~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLUnionBuilder.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/sql-kit/Sources/SQLKit/Builders/SQLUpdateBuilder.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLUpdateBuilder.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLUpdateBuilder.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLUpdateBuilder~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLUpdateBuilder.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/sql-kit/Sources/SQLKit/Concurrency/SQLDatabase+Concurrency.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLDatabase+Concurrency.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLDatabase+Concurrency.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLDatabase+Concurrency~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLDatabase+Concurrency.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/sql-kit/Sources/SQLKit/Concurrency/SQLQueryBuilder+Concurrency.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLQueryBuilder+Concurrency.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLQueryBuilder+Concurrency.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLQueryBuilder+Concurrency~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLQueryBuilder+Concurrency.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/sql-kit/Sources/SQLKit/Concurrency/SQLQueryFetcher+Concurrency.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLQueryFetcher+Concurrency.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLQueryFetcher+Concurrency.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLQueryFetcher+Concurrency~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLQueryFetcher+Concurrency.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/sql-kit/Sources/SQLKit/Exports.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/Exports.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/Exports.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/Exports~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/Exports.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLAlias.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLAlias.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLAlias.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLAlias~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLAlias.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLAlterColumnDefinitionType.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLAlterColumnDefinitionType.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLAlterColumnDefinitionType.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLAlterColumnDefinitionType~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLAlterColumnDefinitionType.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLAlterEnum.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLAlterEnum.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLAlterEnum.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLAlterEnum~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLAlterEnum.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLAlterTable.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLAlterTable.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLAlterTable.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLAlterTable~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLAlterTable.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLBinaryExpression.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLBinaryExpression.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLBinaryExpression.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLBinaryExpression~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLBinaryExpression.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLBinaryOperator.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLBinaryOperator.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLBinaryOperator.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLBinaryOperator~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLBinaryOperator.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLBind.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLBind.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLBind.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLBind~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLBind.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLColumnAssignment.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLColumnAssignment.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLColumnAssignment.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLColumnAssignment~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLColumnAssignment.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLColumnConstraintAlgorithm.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLColumnConstraintAlgorithm.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLColumnConstraintAlgorithm.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLColumnConstraintAlgorithm~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLColumnConstraintAlgorithm.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLColumnDefinition.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLColumnDefinition.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLColumnDefinition.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLColumnDefinition~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLColumnDefinition.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLColumnIdentifier.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLColumnIdentifier.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLColumnIdentifier.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLColumnIdentifier~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLColumnIdentifier.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLConflictAction.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLConflictAction.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLConflictAction.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLConflictAction~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLConflictAction.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLConflictResolutionStrategy.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLConflictResolutionStrategy.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLConflictResolutionStrategy.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLConflictResolutionStrategy~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLConflictResolutionStrategy.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLConstraint.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLConstraint.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLConstraint.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLConstraint~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLConstraint.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLCreateEnum.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLCreateEnum.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLCreateEnum.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLCreateEnum~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLCreateEnum.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLCreateIndex.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLCreateIndex.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLCreateIndex.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLCreateIndex~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLCreateIndex.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLCreateTable.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLCreateTable.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLCreateTable.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLCreateTable~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLCreateTable.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLCreateTrigger.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLCreateTrigger.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLCreateTrigger.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLCreateTrigger~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLCreateTrigger.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLDataType.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLDataType.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLDataType.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLDataType~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLDataType.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLDelete.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLDelete.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLDelete.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLDelete~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLDelete.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLDirection.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLDirection.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLDirection.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLDirection~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLDirection.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLDistinct.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLDistinct.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLDistinct.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLDistinct~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLDistinct.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLDropBehaviour.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLDropBehaviour.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLDropBehaviour.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLDropBehaviour~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLDropBehaviour.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLDropEnum.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLDropEnum.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLDropEnum.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLDropEnum~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLDropEnum.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLDropIndex.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLDropIndex.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLDropIndex.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLDropIndex~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLDropIndex.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLDropTable.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLDropTable.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLDropTable.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLDropTable~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLDropTable.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLDropTrigger.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLDropTrigger.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLDropTrigger.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLDropTrigger~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLDropTrigger.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLEnumDataType.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLEnumDataType.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLEnumDataType.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLEnumDataType~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLEnumDataType.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLExcludedColumn.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLExcludedColumn.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLExcludedColumn.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLExcludedColumn~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLExcludedColumn.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLForeignKey.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLForeignKey.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLForeignKey.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLForeignKey~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLForeignKey.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLForeignKeyAction.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLForeignKeyAction.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLForeignKeyAction.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLForeignKeyAction~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLForeignKeyAction.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLFunction.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLFunction.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLFunction.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLFunction~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLFunction.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLGroupExpression.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLGroupExpression.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLGroupExpression.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLGroupExpression~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLGroupExpression.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLIdentifier.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLIdentifier.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLIdentifier.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLIdentifier~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLIdentifier.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLInsert.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLInsert.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLInsert.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLInsert~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLInsert.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLJoin.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLJoin.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLJoin.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLJoin~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLJoin.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLJoinMethod.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLJoinMethod.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLJoinMethod.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLJoinMethod~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLJoinMethod.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLList.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLList.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLList.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLList~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLList.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLLiteral.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLLiteral.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLLiteral.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLLiteral~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLLiteral.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLLockingClause.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLLockingClause.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLLockingClause.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLLockingClause~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLLockingClause.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLNestedSubpathExpression.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLNestedSubpathExpression.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLNestedSubpathExpression.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLNestedSubpathExpression~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLNestedSubpathExpression.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLOrderBy.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLOrderBy.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLOrderBy.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLOrderBy~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLOrderBy.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLQueryString.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLQueryString.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLQueryString.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLQueryString~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLQueryString.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLRaw.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLRaw.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLRaw.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLRaw~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLRaw.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLReturning.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLReturning.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLReturning.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLReturning~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLReturning.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLSelect.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLSelect.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLSelect.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLSelect~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLSelect.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLTableConstraintAlgorithm.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLTableConstraintAlgorithm.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLTableConstraintAlgorithm.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLTableConstraintAlgorithm~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLTableConstraintAlgorithm.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLUnion.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLUnion.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLUnion.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLUnion~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLUnion.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLUpdate.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLUpdate.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLUpdate.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLUpdate~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLUpdate.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/sql-kit/Sources/SQLKit/SQLDatabase.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLDatabase.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLDatabase.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLDatabase~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLDatabase.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/sql-kit/Sources/SQLKit/SQLDatabaseReportedVersion.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLDatabaseReportedVersion.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLDatabaseReportedVersion.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLDatabaseReportedVersion~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLDatabaseReportedVersion.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/sql-kit/Sources/SQLKit/SQLDialect.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLDialect.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLDialect.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLDialect~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLDialect.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/sql-kit/Sources/SQLKit/SQLError.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLError.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLError.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLError~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLError.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/sql-kit/Sources/SQLKit/SQLExpression.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLExpression.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLExpression.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLExpression~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLExpression.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/sql-kit/Sources/SQLKit/SQLQueryEncoder.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLQueryEncoder.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLQueryEncoder.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLQueryEncoder~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLQueryEncoder.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/sql-kit/Sources/SQLKit/SQLRow.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLRow.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLRow.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLRow~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLRow.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/sql-kit/Sources/SQLKit/SQLRowDecoder.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLRowDecoder.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLRowDecoder.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLRowDecoder~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLRowDecoder.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/sql-kit/Sources/SQLKit/SQLSerializer.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLSerializer.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLSerializer.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLSerializer~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLSerializer.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/sql-kit/Sources/SQLKit/SQLStatement.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLStatement.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLStatement.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLStatement~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/SQLKit.build/SQLStatement.swiftdeps"
+  }
+}

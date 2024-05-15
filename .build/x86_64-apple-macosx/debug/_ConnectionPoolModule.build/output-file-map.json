@@ -1,0 +1,89 @@
+{
+  "": {
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/_ConnectionPoolModule.build/master.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/postgres-nio/Sources/ConnectionPoolModule/ConnectionIDGenerator.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/_ConnectionPoolModule.build/ConnectionIDGenerator.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/_ConnectionPoolModule.build/ConnectionIDGenerator.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/_ConnectionPoolModule.build/ConnectionIDGenerator~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/_ConnectionPoolModule.build/ConnectionIDGenerator.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/postgres-nio/Sources/ConnectionPoolModule/ConnectionPool.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/_ConnectionPoolModule.build/ConnectionPool.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/_ConnectionPoolModule.build/ConnectionPool.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/_ConnectionPoolModule.build/ConnectionPool~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/_ConnectionPoolModule.build/ConnectionPool.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/postgres-nio/Sources/ConnectionPoolModule/ConnectionPoolError.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/_ConnectionPoolModule.build/ConnectionPoolError.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/_ConnectionPoolModule.build/ConnectionPoolError.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/_ConnectionPoolModule.build/ConnectionPoolError~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/_ConnectionPoolModule.build/ConnectionPoolError.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/postgres-nio/Sources/ConnectionPoolModule/ConnectionPoolObservabilityDelegate.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/_ConnectionPoolModule.build/ConnectionPoolObservabilityDelegate.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/_ConnectionPoolModule.build/ConnectionPoolObservabilityDelegate.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/_ConnectionPoolModule.build/ConnectionPoolObservabilityDelegate~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/_ConnectionPoolModule.build/ConnectionPoolObservabilityDelegate.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/postgres-nio/Sources/ConnectionPoolModule/ConnectionRequest.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/_ConnectionPoolModule.build/ConnectionRequest.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/_ConnectionPoolModule.build/ConnectionRequest.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/_ConnectionPoolModule.build/ConnectionRequest~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/_ConnectionPoolModule.build/ConnectionRequest.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/postgres-nio/Sources/ConnectionPoolModule/Max2Sequence.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/_ConnectionPoolModule.build/Max2Sequence.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/_ConnectionPoolModule.build/Max2Sequence.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/_ConnectionPoolModule.build/Max2Sequence~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/_ConnectionPoolModule.build/Max2Sequence.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/postgres-nio/Sources/ConnectionPoolModule/NIOLock.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/_ConnectionPoolModule.build/NIOLock.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/_ConnectionPoolModule.build/NIOLock.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/_ConnectionPoolModule.build/NIOLock~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/_ConnectionPoolModule.build/NIOLock.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/postgres-nio/Sources/ConnectionPoolModule/NIOLockedValueBox.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/_ConnectionPoolModule.build/NIOLockedValueBox.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/_ConnectionPoolModule.build/NIOLockedValueBox.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/_ConnectionPoolModule.build/NIOLockedValueBox~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/_ConnectionPoolModule.build/NIOLockedValueBox.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/postgres-nio/Sources/ConnectionPoolModule/NoKeepAliveBehavior.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/_ConnectionPoolModule.build/NoKeepAliveBehavior.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/_ConnectionPoolModule.build/NoKeepAliveBehavior.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/_ConnectionPoolModule.build/NoKeepAliveBehavior~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/_ConnectionPoolModule.build/NoKeepAliveBehavior.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/postgres-nio/Sources/ConnectionPoolModule/PoolStateMachine+ConnectionGroup.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/_ConnectionPoolModule.build/PoolStateMachine+ConnectionGroup.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/_ConnectionPoolModule.build/PoolStateMachine+ConnectionGroup.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/_ConnectionPoolModule.build/PoolStateMachine+ConnectionGroup~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/_ConnectionPoolModule.build/PoolStateMachine+ConnectionGroup.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/postgres-nio/Sources/ConnectionPoolModule/PoolStateMachine+ConnectionState.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/_ConnectionPoolModule.build/PoolStateMachine+ConnectionState.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/_ConnectionPoolModule.build/PoolStateMachine+ConnectionState.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/_ConnectionPoolModule.build/PoolStateMachine+ConnectionState~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/_ConnectionPoolModule.build/PoolStateMachine+ConnectionState.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/postgres-nio/Sources/ConnectionPoolModule/PoolStateMachine+RequestQueue.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/_ConnectionPoolModule.build/PoolStateMachine+RequestQueue.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/_ConnectionPoolModule.build/PoolStateMachine+RequestQueue.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/_ConnectionPoolModule.build/PoolStateMachine+RequestQueue~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/_ConnectionPoolModule.build/PoolStateMachine+RequestQueue.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/postgres-nio/Sources/ConnectionPoolModule/PoolStateMachine.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/_ConnectionPoolModule.build/PoolStateMachine.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/_ConnectionPoolModule.build/PoolStateMachine.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/_ConnectionPoolModule.build/PoolStateMachine~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/_ConnectionPoolModule.build/PoolStateMachine.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/checkouts/postgres-nio/Sources/ConnectionPoolModule/TinyFastSequence.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/_ConnectionPoolModule.build/TinyFastSequence.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/_ConnectionPoolModule.build/TinyFastSequence.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/_ConnectionPoolModule.build/TinyFastSequence~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/_ConnectionPoolModule.build/TinyFastSequence.swiftdeps"
+  }
+}

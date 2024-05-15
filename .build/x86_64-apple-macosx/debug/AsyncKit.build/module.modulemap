@@ -1,0 +1,4 @@
+module AsyncKit {
+    header "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/AsyncKit.build/AsyncKit-Swift.h"
+    requires objc
+}
