@@ -17,6 +17,7 @@ struct CreateMusicRoom: AsyncMigration {
             .field("is_private", .bool, .required)
             .field("users_in_room", .int32, .required)
             .field("image_data", .string, .required)
+            .field("description", .string, .required)
             .create()
     }
     

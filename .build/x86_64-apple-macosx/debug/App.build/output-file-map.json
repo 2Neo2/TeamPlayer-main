@@ -2,6 +2,12 @@
   "": {
     "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/master.swiftdeps"
   },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/Sources/App/Controllers/ChatController.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/ChatController.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/ChatController.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/ChatController~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/ChatController.swiftdeps"
+  },
   "/Users/ivandoronin/Desktop/TeamPlayer-main/Sources/App/Controllers/MusicRoomController.swift": {
     "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/MusicRoomController.d",
     "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/MusicRoomController.swift.o",
@@ -26,11 +32,23 @@
     "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/UserTokenAuthenticator~partial.swiftmodule",
     "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/UserTokenAuthenticator.swiftdeps"
   },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/Sources/App/Migrations/CreateChat.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/CreateChat.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/CreateChat.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/CreateChat~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/CreateChat.swiftdeps"
+  },
   "/Users/ivandoronin/Desktop/TeamPlayer-main/Sources/App/Migrations/CreateMusicRoom.swift": {
     "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/CreateMusicRoom.d",
     "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/CreateMusicRoom.swift.o",
     "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/CreateMusicRoom~partial.swiftmodule",
     "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/CreateMusicRoom.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/Sources/App/Migrations/CreateMusicRoomPlaylist.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/CreateMusicRoomPlaylist.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/CreateMusicRoomPlaylist.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/CreateMusicRoomPlaylist~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/CreateMusicRoomPlaylist.swiftdeps"
   },
   "/Users/ivandoronin/Desktop/TeamPlayer-main/Sources/App/Migrations/CreateMusicRoomUser.swift": {
     "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/CreateMusicRoomUser.d",
@@ -56,11 +74,23 @@
     "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/CreateUser~partial.swiftmodule",
     "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/CreateUser.swiftdeps"
   },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/Sources/App/Models/Chat.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/Chat.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/Chat.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/Chat~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/Chat.swiftdeps"
+  },
   "/Users/ivandoronin/Desktop/TeamPlayer-main/Sources/App/Models/MusicRoom.swift": {
     "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/MusicRoom.d",
     "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/MusicRoom.swift.o",
     "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/MusicRoom~partial.swiftmodule",
     "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/MusicRoom.swiftdeps"
+  },
+  "/Users/ivandoronin/Desktop/TeamPlayer-main/Sources/App/Models/MusicRoomPlaylist.swift": {
+    "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/MusicRoomPlaylist.d",
+    "object": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/MusicRoomPlaylist.swift.o",
+    "swiftmodule": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/MusicRoomPlaylist~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/MusicRoomPlaylist.swiftdeps"
   },
   "/Users/ivandoronin/Desktop/TeamPlayer-main/Sources/App/Models/MusicRoomUser.swift": {
     "dependencies": "/Users/ivandoronin/Desktop/TeamPlayer-main/.build/x86_64-apple-macosx/debug/App.build/MusicRoomUser.d",

@@ -26,6 +26,9 @@ final class MusicRoom: Model, Content {
     @Parent(key: "creator_id")
     var creator: User
     
+    @Field(key: "description")
+    var description: String
+    
     @Field(key: "users_in_room")
     var usersInRoom: Int
     
@@ -40,7 +43,8 @@ final class MusicRoom: Model, Content {
          code: String,
          isPrivate: Bool,
          usersInRoom: Int,
-         imageData: String) {
+         imageData: String,
+         description: String) {
         self.id = id
         self.name = name
         self.$creator.id = creatorID
@@ -48,5 +52,6 @@ final class MusicRoom: Model, Content {
         self.isPrivate = isPrivate
         self.usersInRoom = usersInRoom
         self.imageData = imageData
+        self.description = description
     }
 }

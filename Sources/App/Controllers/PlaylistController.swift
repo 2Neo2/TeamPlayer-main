@@ -2,8 +2,8 @@
 //  File.swift
 //
 //
-//  Created by Иван Доронин on 07.05.2024.
-//
+//  Created by Иван Д
+
 
 import Fluent
 import Vapor
@@ -24,20 +24,34 @@ struct PlaylistController: RouteCollection {
     
     func addTrackToStorage(req: Request) throws -> EventLoopFuture<Track> {
         req.headers.contentType = .json
+
         guard let _ = req.auth.get(User.self) else {
-            throw Abort(.unauthorized)
+            throw Abort(.unauthorized, reason: "User not authenticated")
         }
         
         let input = try req.content.decode(Track.self)
         
-        let track = Track(
-            trackID: input.trackID,
-            title: input.title,
-            artist: input.artist,
-            imgLink: input.imgLink,
-            musicLink: input.musicLink
-        )
-        return track.save(on: req.db).map { track }
+        return Track.query(on: req.db)
+            .filter(\.$trackID == input.trackID)
+            .first()
+            .flatMap { existingTrack in
+                if let existingTrack = existingTrack {
+                    return req.eventLoop.makeSucceededFuture(existingTrack)
+                } else {
+                    let track = Track(
+                        trackID: input.trackID,
+                        title: input.title,
+                        artist: input.artist,
+                        imgLink: input.imgLink,
+                        musicLink: input.musicLink,
+                        duration: input.duration
+                    )
+                    return track.save(on: req.db).map { track }
+                }
+            }.flatMapErrorThrowing { error in
+                req.logger.error("Failed to process track: \(error.localizedDescription)")
+                throw error
+            }
     }
     
     func addTrackToPlaylist(req: Request) throws -> EventLoopFuture<Status> {
@@ -97,7 +111,7 @@ struct PlaylistController: RouteCollection {
         
         let input = try req.content.decode(Playlist.Create.self)
         
-        let playlist = Playlist(name: input.name, imageData: input.imageData, creatorID: user.id!)
+        let playlist = Playlist(name: input.name, imageData: input.imageData, creatorID: user.id!, description: input.description)
         return playlist.save(on: req.db).map { Status(message: "ok") }
     }
     
@@ -109,20 +123,35 @@ struct PlaylistController: RouteCollection {
         return Playlist.query(on: req.db)
             .filter(\.$creator.$id == user.id!)
             .all()
-            .flatMapThrowing { playlists in
-                playlists.map { playlist in
-                    return Playlist.Public(
-                        id: playlist.id,
-                        name: playlist.name,
-                        imageData: playlist.imageData ?? "",
-                        creatorID: playlist.$creator.id
-                    )
+            .flatMap { playlists in
+                let playlistFutures = playlists.map { playlist in
+                    TrackPlaylist.query(on: req.db)
+                        .filter(\.$playlist.$id == playlist.id!)
+                        .join(Track.self, on: \Track.$id == \TrackPlaylist.$track.$id)
+                        .all()
+                        .map { trackPlaylists in
+                            let totalMinutes = trackPlaylists.reduce(0) { (sum, trackPlaylist) -> Int in
+                                let track = try! trackPlaylist.joined(Track.self)
+                                return sum + track.duration
+                            }
+                            return Playlist.Public(
+                                id: playlist.id,
+                                name: playlist.name,
+                                imageData: playlist.imageData ?? "",
+                                creatorID: playlist.$creator.id,
+                                description: playlist.description,
+                                totalMinutes: totalMinutes
+                            )
+                        }
                 }
+                return playlistFutures.flatten(on: req.eventLoop)
             }
     }
+
     
     func removePlaylist(req: Request) throws -> EventLoopFuture<Status> {
-        guard let user = req.auth.get(User.self) else {
+        req.headers.contentType = .json
+        guard let _ = req.auth.get(User.self) else {
             throw Abort(.unauthorized)
         }
         
@@ -151,11 +180,14 @@ extension Playlist {
         var name: String
         var imageData: String
         var creatorID: UUID
+        var description: String
+        var totalMinutes: Int
     }
     
     struct Create: Content {
         var name: String
         var imageData: String
+        var description: String
     }
     
     struct PlaylistID: Content {

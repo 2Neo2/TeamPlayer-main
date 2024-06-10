@@ -14,6 +14,7 @@ struct CreatePlaylist: AsyncMigration {
             .field("name", .string, .required)
             .field("image_data", .string, .required)
             .field("creator_id", .uuid, .required, .references(User.schema, "id"))
+            .field("description", .string, .required)
             .create()
     }
     

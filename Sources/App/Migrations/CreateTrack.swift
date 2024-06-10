@@ -16,6 +16,7 @@ struct CreateTrack: AsyncMigration {
             .field("artist", .string, .required)
             .field("img_link", .string, .required)
             .field("music_link", .string, .required)
+            .field("duration", .int, .required)
             .unique(on: "track_id")
             .create()
     }

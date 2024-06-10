@@ -13,7 +13,7 @@ struct CreateMusicRoomUser: AsyncMigration {
             .id()
             .field("user_id", .uuid, .required, .references(User.schema, "id"))
             .field("music_room_id", .uuid, .required, .references(MusicRoom.schema, "id"))
-            .unique(on: "user_id")
+            .unique(on: "id")
             .create()
     }
     

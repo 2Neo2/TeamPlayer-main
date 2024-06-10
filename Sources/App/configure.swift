@@ -19,6 +19,8 @@ public func configure(_ app: Application) async throws {
     app.migrations.add(CreatePlaylist())
     app.migrations.add(CreateTrack())
     app.migrations.add(CreateTrackPlaylist())
+    app.migrations.add(CreateMusicRoomPlaylist())
+    app.migrations.add(CreateChats())
     
     // register routes
     try routes(app)

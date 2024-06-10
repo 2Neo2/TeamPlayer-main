@@ -29,6 +29,9 @@ final class Track: Model, Content {
     @Field(key: "music_link")
     var musicLink: String
     
+    @Field(key: "duration")
+    var duration: Int
+    
     init() { }
     
     init(id: UUID? = nil,
@@ -36,12 +39,14 @@ final class Track: Model, Content {
          title: String,
          artist: String,
          imgLink: String,
-         musicLink: String) {
+         musicLink: String,
+         duration: Int) {
         self.id = id
         self.trackID = trackID
         self.title = title
         self.artist = artist
         self.imgLink = imgLink
         self.musicLink = musicLink
+        self.duration = duration
     }
 }

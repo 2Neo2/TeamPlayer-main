@@ -23,12 +23,16 @@ final class Playlist: Model, Content {
     @Parent(key: "creator_id")
     var creator: User
     
+    @Field(key: "description")
+    var description: String
+    
     init() { }
     
-    init(id: UUID? = nil, name: String, imageData: String?, creatorID: UUID) {
+    init(id: UUID? = nil, name: String, imageData: String?, creatorID: UUID, description: String) {
         self.id = id
         self.name = name
         self.imageData = imageData
         self.$creator.id = creatorID
+        self.description = description
     }
 }
